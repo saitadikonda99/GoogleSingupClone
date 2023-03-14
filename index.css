@@ -1,0 +1,145 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.container-inner {
+    border: 0.5px solid gray;
+    border-radius: 8px;
+    width: 50%;
+    height: 70vh;
+    display: flex;
+    margin: auto;
+    margin-top: 100px;
+    padding-left: 30px;
+    padding-top: 30px;
+
+}
+
+.one {
+    width: 50%;
+    
+}
+
+.two {
+    width: 50%;
+    
+}
+
+.one h1 {
+    font-size: 25px;
+    font-weight: 200222;
+}
+
+.one img {
+    width: 25%;
+    margin-left: -3%
+}
+
+.one-one {
+    margin-top: 30px;
+}
+
+.one-one input {
+    padding: 8px;
+    border: 0.5px solid gray;
+    border-radius: 3px;
+
+}
+
+.one-two input {
+    padding: 8px;
+    border: 0.5px solid gray;
+    border-radius: 3px;
+    width: 83%;
+
+}
+
+.one-two {
+    margin-top: 25px;
+}
+
+.one-two p {
+    margin: -27px 0px 0px 220px;
+    font-size: 15px;
+}
+
+.one-two h5 {
+    font-weight: 400;
+    font-size: 13px;
+    margin: 15px 0px 17px 10px;
+    color: grey;
+}
+
+.one-three a{
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(109, 109, 230);
+    
+}
+
+.one-four {
+    margin-top: 30px;
+}
+
+.one-four input {
+    padding: 8px;
+    border: 0.5px solid gray;
+    border-radius: 3px;
+
+}
+
+.one-four p {
+    font-weight: 400;
+    font-size: 13px;
+    width: 85%;
+    margin: 15px 0px 17px 10px;
+    color: grey;
+}
+
+.one-five p {
+        display: inline;
+        margin: 0px 0px 0px 10px;
+        font-size: 15px
+}
+
+.one-five input {
+   border: 2px solid grey;
+   
+}
+
+.one-six a {
+    text-decoration: none;
+    margin-top: 50px;
+}
+
+#signin {
+    float: left;
+    font-size: 15px;
+    color:  rgb(24, 90, 226);
+     
+}
+
+#next {
+    float: right;
+    background-color: rgb(24, 90, 226);
+    color: white;
+    padding: 8px 20px 8px 30px;
+    font-size: 17px;
+    border-radius: 5px;
+}
+
+.two {
+    text-align: center;
+}
+.two img {
+    height: 40vh;
+    margin: 15% 0% 0% ;
+}
+
+.two p {
+    width: 60%;
+    margin-left: 70px;
+    font-weight: 100;
+}
